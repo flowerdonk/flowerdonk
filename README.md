@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[10D082BA-8147-4EF0-9221-386BF4A34F62.jpeg](https://vitruvius.museumseven.com/render/600-600@2/dp-476821-22.jpg)">
+<img src="https://vitruvius.museumseven.com/render/600-600@2/dp-476821-22.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
