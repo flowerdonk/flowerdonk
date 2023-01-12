@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **flowerdonk/flowerdonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![필카](10D082BA-8147-4EF0-9221-386BF4A34F62.jpeg)
