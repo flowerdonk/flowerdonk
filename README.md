@@ -13,7 +13,7 @@
 ```
 ☘️ “Yujin Kim”
 
-👔 Backend Engineer
+👔 Backend Developer
 
 📧 dbwls5140@naver.com
 ```
